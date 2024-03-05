@@ -1,1 +1,1 @@
-This project is a HTML based recipe website based on the Odin assignment project:recipe
+This project is a HTML only recipe website based on the Odin assignment project:recipe built
