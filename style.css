@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.subtext{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    background-color: #555555 ;
+    color: white;
+    padding: 20px;
+}
